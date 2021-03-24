@@ -1,17 +1,17 @@
 # hitachivantara-java-example-hcp-web
  You need to prepare a web container like Tomcat.
  
-## Screenshot-1-Start web project
+## Step-1-Start web project
 ![Screenshot-](screenshot/Screenshot-1.png) 
 
-## Screenshot-2
+## Step-2
 ![Screenshot-](screenshot/Screenshot-2.png) 
 
-## Screenshot-3
+## Step-3
 ![Screenshot-](screenshot/Screenshot-3.png) 
 
-## Screenshot-4
+## Step-4
 ![Screenshot-](screenshot/Screenshot-4.png) 
 
-## Screenshot-5-Here is the object in HCP namespace uploaded by post.
+## Step-5-Here is the object in HCP namespace uploaded by post.
 ![Screenshot-](screenshot/Screenshot-5.png) 
